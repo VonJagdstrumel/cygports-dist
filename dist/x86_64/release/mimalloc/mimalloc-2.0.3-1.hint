@@ -1,0 +1,5 @@
+category: Devel
+requires: cygwin libgcc1 
+sdesc: "mimalloc"
+ldesc: "mimalloc"
+

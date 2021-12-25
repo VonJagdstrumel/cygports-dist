@@ -1,0 +1,8 @@
+category: _obsolete
+requires: python-imaging-debuginfo
+sdesc: "Obsoleted by python-imaging-debuginfo"
+ldesc: "The python3-imaging-debuginfo package is obsolete.  Selecting this package for
+installation will cause the python-imaging-debuginfo package, which replaces this
+one, to be installed instead."
+external-source: python-imaging
+

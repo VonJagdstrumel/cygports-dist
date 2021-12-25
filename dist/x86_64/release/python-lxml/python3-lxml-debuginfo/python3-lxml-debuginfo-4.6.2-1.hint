@@ -1,0 +1,8 @@
+category: _obsolete
+requires: python-lxml-debuginfo
+sdesc: "Obsoleted by python-lxml-debuginfo"
+ldesc: "The python3-lxml-debuginfo package is obsolete.  Selecting this package for
+installation will cause the python-lxml-debuginfo package, which replaces this
+one, to be installed instead."
+external-source: python-lxml
+

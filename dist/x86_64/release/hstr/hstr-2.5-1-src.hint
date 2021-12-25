@@ -1,0 +1,6 @@
+category: Shells Utils
+build-depends: cygport 
+sdesc: "hstr"
+ldesc: "hstr"
+skip:
+
