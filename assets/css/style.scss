@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  color: $gray-300;
+  background-color: $black;
+}
+
+a {
+  color: $orange-400;
+}
