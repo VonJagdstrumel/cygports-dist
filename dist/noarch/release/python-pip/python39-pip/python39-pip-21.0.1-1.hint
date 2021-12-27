@@ -1,6 +1,0 @@
-category: Python
-requires: python39 ca-certificates python39-setuptools
-sdesc: "Python package installation tool"
-ldesc: "The PyPA recommended tool for installing Python packages."
-external-source: python-pip
-

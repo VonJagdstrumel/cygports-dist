@@ -1,5 +1,0 @@
-category: Devel
-requires: cygwin libgcc1 libpng16 pkg-config 
-sdesc: "mozjpeg"
-ldesc: "mozjpeg"
-

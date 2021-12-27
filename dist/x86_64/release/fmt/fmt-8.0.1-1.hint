@@ -1,5 +1,0 @@
-category: Devel
-requires: pkg-config 
-sdesc: "fmt"
-ldesc: "fmt"
-

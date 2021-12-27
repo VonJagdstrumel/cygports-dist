@@ -1,5 +1,0 @@
-category: Shells Utils
-requires: cygwin libncursesw10 libreadline7 
-sdesc: "hstr"
-ldesc: "hstr"
-

@@ -1,7 +1,0 @@
-category: Python
-build-depends: cygport 
-sdesc: "Python package installation tool"
-ldesc: "The PyPA recommended tool for installing Python packages."
-skip:
-
-homepage: https://pypi.org/project/pip
