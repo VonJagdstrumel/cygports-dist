@@ -1,0 +1,6 @@
+category: Lua
+build-depends: cygport 
+sdesc: "luarocks"
+ldesc: "luarocks"
+skip:
+

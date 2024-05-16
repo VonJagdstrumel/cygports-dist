@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python Foreign Function Interface"
+ldesc: "C Foreign Function Interface for Python. The goal is to provide a
+convenient and reliable way to call compiled C code from Python using interface
+declarations written in C."
+skip:
+
+homepage: https://pypi.org/project/cffi

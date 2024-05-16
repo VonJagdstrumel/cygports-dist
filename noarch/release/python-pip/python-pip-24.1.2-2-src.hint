@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport python39-setuptools python311-setuptools python313-setuptools ca-certificates
+sdesc: "Python package installation tool"
+ldesc: "The PyPA recommended tool for installing Python packages."
+skip:
+
+homepage: https://pypi.org/project/pip
+license: BSD-1-Clause

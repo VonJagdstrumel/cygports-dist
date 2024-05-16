@@ -1,0 +1,6 @@
+category: Web
+build-depends: cygport 
+sdesc: "h2o"
+ldesc: "h2o"
+skip:
+
