@@ -1,0 +1,6 @@
+category: Utils
+build-depends: cygport 
+sdesc: "nq"
+ldesc: "nq"
+skip:
+

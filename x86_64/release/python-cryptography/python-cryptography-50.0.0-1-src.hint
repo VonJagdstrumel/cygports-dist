@@ -1,0 +1,8 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python cryptography primitives"
+ldesc: "cryptography is a package which provides cryptographic recipes and
+primitives to Python developers."
+skip:
+
+homepage: https://pypi.org/project/cryptography

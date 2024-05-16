@@ -1,0 +1,6 @@
+category: Net
+build-depends: cygport 
+sdesc: "tinc"
+ldesc: "tinc"
+skip:
+

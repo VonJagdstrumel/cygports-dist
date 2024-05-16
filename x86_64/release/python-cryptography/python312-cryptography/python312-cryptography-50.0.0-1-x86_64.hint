@@ -1,0 +1,7 @@
+category: Python
+requires: cygwin libgcc1 libssl3 python312 python312-cffi python312-idna
+sdesc: "Python cryptography primitives"
+ldesc: "cryptography is a package which provides cryptographic recipes and
+primitives to Python developers."
+external-source: python-cryptography
+

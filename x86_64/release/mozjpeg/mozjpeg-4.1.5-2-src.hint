@@ -1,0 +1,6 @@
+category: Devel
+build-depends: cygport 
+sdesc: "mozjpeg"
+ldesc: "mozjpeg"
+skip:
+

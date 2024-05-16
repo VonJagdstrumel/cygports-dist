@@ -1,0 +1,6 @@
+category: Python
+requires: python312 python312-packaging python312-platformdirs python312-wheel python312-zipp
+sdesc: "Python package management tool"
+ldesc: "PyPI Python eggs package management tool"
+external-source: python-setuptools
+

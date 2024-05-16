@@ -1,0 +1,11 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python IDNA 2008 module"
+ldesc: "Support for the Internationalised Domain Names in Applications
+(IDNA) protocol as specified in RFC 5891. This is the latest version of the
+protocol and is sometimes referred to as IDNA 2008. This library also provides
+support for Unicode Technical Standard 46, Unicode IDNA Compatibility
+Processing."
+skip:
+
+homepage: https://pypi.org/project/idna

@@ -1,0 +1,6 @@
+category: Text Utils
+build-depends: cygport 
+sdesc: "q"
+ldesc: "q"
+skip:
+

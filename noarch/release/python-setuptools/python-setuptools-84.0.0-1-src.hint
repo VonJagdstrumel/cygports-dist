@@ -1,0 +1,7 @@
+category: Python
+build-depends: cygport 
+sdesc: "Python package management tool"
+ldesc: "PyPI Python eggs package management tool"
+skip:
+
+homepage: https://pypi.org/project/setuptools

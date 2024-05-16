@@ -1,0 +1,5 @@
+category: Text Utils
+requires: python3 python27-six
+sdesc: "q"
+ldesc: "q"
+

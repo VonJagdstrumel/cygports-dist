@@ -1,0 +1,6 @@
+category: Utils
+build-depends: cygport 
+sdesc: "discount"
+ldesc: "discount"
+skip:
+

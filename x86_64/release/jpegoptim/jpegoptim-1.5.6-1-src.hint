@@ -1,0 +1,6 @@
+category: Graphics Utils
+build-depends: cygport 
+sdesc: "jpegoptim"
+ldesc: "jpegoptim"
+skip:
+
