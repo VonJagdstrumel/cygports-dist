@@ -1,0 +1,38 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$brand-color:           #999999;
+$text-color:            #bbbbbb;
+$background-color:      #181818;
+$link-base-color:       $orange-400;
+$grey-color-light:      darken($brand-color, 35%);
+$table-zebra-color:     lighten($background-color, 4%);
+$table-header-bg-color: lighten($background-color, 10%);
+$table-header-border:   lighten($background-color, 21%);
+
+body {
+  color: $text-color;
+  background-color: $background-color;
+}
+
+a {
+  color: $link-base-color;
+}
+
+.markdown-body table {
+  tr {
+    background-color: $background-color;
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+  }
+  th {
+    background-color: $table-header-bg-color;
+    border-color: $table-header-border;
+  }
+  td {
+    border-color: $grey-color-light;
+  }
+}
