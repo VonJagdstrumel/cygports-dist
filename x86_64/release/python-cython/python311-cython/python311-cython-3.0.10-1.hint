@@ -1,0 +1,8 @@
+category: Python
+requires: alternatives cygwin python311
+sdesc: "C extension language for Python"
+ldesc: "Cython is a language that makes writing C extensions for the
+Python language as easy as Python itself. It is based on the well-known Pyrex,
+but supports more cutting edge functionality and optimizations."
+external-source: python-cython
+

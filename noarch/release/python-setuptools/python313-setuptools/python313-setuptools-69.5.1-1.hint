@@ -1,0 +1,6 @@
+category: Python
+requires: python313
+sdesc: "Python package management tool"
+ldesc: "PyPI Python eggs package management tool"
+external-source: python-setuptools
+
