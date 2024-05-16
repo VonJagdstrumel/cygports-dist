@@ -1,0 +1,5 @@
+category: Lua
+requires: lua
+sdesc: "luarocks"
+ldesc: "luarocks"
+

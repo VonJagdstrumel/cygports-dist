@@ -1,0 +1,6 @@
+category: Interpreters
+build-depends: cygport 
+sdesc: "mawk"
+ldesc: "mawk"
+skip:
+

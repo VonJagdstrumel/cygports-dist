@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: python-cython
+sdesc: "Debug info for python-cython"
+ldesc: "This package contains files necessary for debugging the
+python-cython package with gdb."

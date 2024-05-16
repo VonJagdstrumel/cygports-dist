@@ -1,0 +1,6 @@
+category: Utils Web
+build-depends: cygport 
+sdesc: "acme-sh"
+ldesc: "acme-sh"
+skip:
+
