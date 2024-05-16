@@ -1,0 +1,6 @@
+category: Python
+requires: alternatives python311 ca-certificates python311-setuptools
+sdesc: "Python package installation tool"
+ldesc: "The PyPA recommended tool for installing Python packages."
+external-source: python-pip
+

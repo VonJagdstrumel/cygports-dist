@@ -1,0 +1,6 @@
+category: Devel
+build-depends: cygport 
+sdesc: "jemalloc"
+ldesc: "jemalloc"
+skip:
+

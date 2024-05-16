@@ -1,0 +1,6 @@
+category: Libs Shells
+build-depends: cygport 
+sdesc: "bash-oo"
+ldesc: "bash-oo"
+skip:
+

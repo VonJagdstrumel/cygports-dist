@@ -1,0 +1,6 @@
+category: Net Web
+build-depends: cygport 
+sdesc: "cntlm"
+ldesc: "cntlm"
+skip:
+

@@ -1,0 +1,6 @@
+category: Devel
+build-depends: cygport 
+sdesc: "nanomsg"
+ldesc: "nanomsg"
+skip:
+

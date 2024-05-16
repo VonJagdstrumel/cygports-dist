@@ -1,0 +1,6 @@
+category: Libs Shells
+build-depends: cygport 
+sdesc: "bash-concurrent"
+ldesc: "bash-concurrent"
+skip:
+

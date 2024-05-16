@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-nacl
+sdesc: "Python binding to the Networking and Cryptography (NaCl) library"
+ldesc: "The python3-nacl virtual package. Selecting this package for installation will cause the python39-nacl package to be installed."
+external-source: python-nacl
+

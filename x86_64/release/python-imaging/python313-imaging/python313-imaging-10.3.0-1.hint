@@ -1,0 +1,8 @@
+category: Python
+requires: cygwin libfreetype6 libimagequant0 libjpeg8 liblcms2_2 libopenjp2_7 libraqm0 libtiff7 libwebp7 libwebpdemux2 libwebpmux3 libxcb1 python313 python313-olefile zlib0 python313 python313-olefile
+sdesc: "Python Imaging Library"
+ldesc: "The Python Imaging Library (PIL) adds image processing capabilities
+to your Python interpreter. This library supports many file formats, and provides
+powerful image processing and graphics capabilities."
+external-source: python-imaging
+

@@ -1,0 +1,6 @@
+category: Python Virtual
+requires: python39-pip
+sdesc: "Python package installation tool"
+ldesc: "The python3-pip virtual package. Selecting this package for installation will cause the python39-pip package to be installed."
+external-source: python-pip
+

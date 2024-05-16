@@ -1,0 +1,6 @@
+category: Debug
+requires: cygwin-debuginfo
+external-source: python-cffi
+sdesc: "Debug info for python-cffi"
+ldesc: "This package contains files necessary for debugging the
+python-cffi package with gdb."

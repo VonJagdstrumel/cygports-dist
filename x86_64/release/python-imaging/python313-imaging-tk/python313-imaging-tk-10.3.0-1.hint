@@ -1,0 +1,8 @@
+category: Python
+requires: cygwin python313 python313-imaging python313-tkinter
+sdesc: "Python Imaging Library"
+ldesc: "The Python Imaging Library (PIL) adds image processing capabilities
+to your Python interpreter. This library supports many file formats, and provides
+powerful image processing and graphics capabilities."
+external-source: python-imaging
+

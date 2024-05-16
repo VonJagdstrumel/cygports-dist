@@ -1,0 +1,5 @@
+category: Web
+requires: bash cygwin libgcc1 libssl1.1 libstdc++6 libuv-devel pkg-config zlib0 
+sdesc: "h2o"
+ldesc: "h2o"
+

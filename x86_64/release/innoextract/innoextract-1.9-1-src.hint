@@ -1,0 +1,6 @@
+category: Archive Utils
+build-depends: cygport 
+sdesc: "innoextract"
+ldesc: "innoextract"
+skip:
+

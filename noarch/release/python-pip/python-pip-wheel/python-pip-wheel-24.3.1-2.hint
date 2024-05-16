@@ -1,0 +1,6 @@
+category: Python
+requires: 
+sdesc: "Python package installation tool"
+ldesc: "The PyPA recommended tool for installing Python packages."
+external-source: python-pip
+
