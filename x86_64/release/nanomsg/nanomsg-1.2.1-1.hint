@@ -1,0 +1,5 @@
+category: Devel
+requires: cygwin pkg-config
+sdesc: "nanomsg"
+ldesc: "nanomsg"
+

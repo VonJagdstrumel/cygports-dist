@@ -1,0 +1,6 @@
+category: Shells
+build-depends: cygport 
+sdesc: "liquidprompt"
+ldesc: "liquidprompt"
+skip:
+

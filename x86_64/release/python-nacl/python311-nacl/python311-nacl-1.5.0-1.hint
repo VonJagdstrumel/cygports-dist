@@ -1,0 +1,9 @@
+category: Python
+requires: cygwin libsodium23 python311
+sdesc: "Python binding to the Networking and Cryptography (NaCl) library"
+ldesc: "PyNaCl is a Python binding to libsodium, which is a fork of the
+Networking and Cryptography library. These libraries have a stated goal of
+improving usability, security and speed. It supports Python 2.7 and 3.4+ as
+well as PyPy 2.6+."
+external-source: python-nacl
+

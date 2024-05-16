@@ -1,0 +1,9 @@
+category: Python
+build-depends: cygport libjpeg-devel libjpeg8 zlib-devel zlib0 libtiff-devel libtiff6 libfreetype-devel libfreetype6 liblcms2-devel lcms2 libwebp libwebp-devel tcl-devel tcl libimagequant-devel libimagequant0 libraqm-devel libraqm0 libX11-xcb-devel libX11-xcb1 libxcb-devel libxcb1 python311 python311-devel python311-setuptools python311-wheel python311-pip python311-olefile python313 python313-devel python313-setuptools python313-wheel python313-pip python313-olefile
+sdesc: "Python Imaging Library"
+ldesc: "The Python Imaging Library (PIL) adds image processing capabilities
+to your Python interpreter. This library supports many file formats, and provides
+powerful image processing and graphics capabilities."
+skip:
+
+homepage: https://python-pillow.github.io/
